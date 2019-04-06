@@ -1,0 +1,20 @@
+C:\Users\jdkam\source\repos\Mynotepad\Mynotepad\bin\Debug\Mynotepad.exe.config
+C:\Users\jdkam\source\repos\Mynotepad\Mynotepad\bin\Debug\Mynotepad.exe
+C:\Users\jdkam\source\repos\Mynotepad\Mynotepad\bin\Debug\Mynotepad.pdb
+C:\Users\jdkam\source\repos\Mynotepad\Mynotepad\obj\Debug\Mynotepad.csprojAssemblyReference.cache
+C:\Users\jdkam\source\repos\Mynotepad\Mynotepad\obj\Debug\Mynotepad.Form1.resources
+C:\Users\jdkam\source\repos\Mynotepad\Mynotepad\obj\Debug\Mynotepad.Properties.Resources.resources
+C:\Users\jdkam\source\repos\Mynotepad\Mynotepad\obj\Debug\Mynotepad.csproj.GenerateResource.cache
+C:\Users\jdkam\source\repos\Mynotepad\Mynotepad\obj\Debug\Mynotepad.csproj.CoreCompileInputs.cache
+C:\Users\jdkam\source\repos\Mynotepad\Mynotepad\obj\Debug\Mynotepad.exe
+C:\Users\jdkam\source\repos\Mynotepad\Mynotepad\obj\Debug\Mynotepad.pdb
+D:\Sem 6 study\DOT NET\assignment\Mynotepad project\Mynotepad\bin\Debug\Mynotepad.exe.config
+D:\Sem 6 study\DOT NET\assignment\Mynotepad project\Mynotepad\bin\Debug\Mynotepad.exe
+D:\Sem 6 study\DOT NET\assignment\Mynotepad project\Mynotepad\bin\Debug\Mynotepad.pdb
+D:\Sem 6 study\DOT NET\assignment\Mynotepad project\Mynotepad\obj\Debug\Mynotepad.csprojAssemblyReference.cache
+D:\Sem 6 study\DOT NET\assignment\Mynotepad project\Mynotepad\obj\Debug\Mynotepad.Form1.resources
+D:\Sem 6 study\DOT NET\assignment\Mynotepad project\Mynotepad\obj\Debug\Mynotepad.Properties.Resources.resources
+D:\Sem 6 study\DOT NET\assignment\Mynotepad project\Mynotepad\obj\Debug\Mynotepad.csproj.GenerateResource.cache
+D:\Sem 6 study\DOT NET\assignment\Mynotepad project\Mynotepad\obj\Debug\Mynotepad.csproj.CoreCompileInputs.cache
+D:\Sem 6 study\DOT NET\assignment\Mynotepad project\Mynotepad\obj\Debug\Mynotepad.exe
+D:\Sem 6 study\DOT NET\assignment\Mynotepad project\Mynotepad\obj\Debug\Mynotepad.pdb
